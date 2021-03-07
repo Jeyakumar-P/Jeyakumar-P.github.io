@@ -442,9 +442,10 @@ section {
     color: #050d18;
 }
 
-.skills .progress .skill .val {
+.skills .progress .val {
     float: right;
     font-style: normal;
+    font-size: 20px;
 }
 
 .skills .progress-bar-wrap {
