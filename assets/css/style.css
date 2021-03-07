@@ -445,7 +445,7 @@ section {
 .skills .progress .val {
     float: right;
     font-style: normal;
-    font-size: 20px;
+    font-size: large;
 }
 
 .skills .progress-bar-wrap {
