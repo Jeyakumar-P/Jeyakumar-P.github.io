@@ -422,12 +422,11 @@ section {
 
 
 /*--------------------------------------------------------------
-# Akills
+# A skills
 --------------------------------------------------------------*/
 
 .skills .progress {
-    height: auto;
-    width: auto;
+    height: 50;
     display: block;
     background: none;
 }
