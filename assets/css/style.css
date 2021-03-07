@@ -422,14 +422,14 @@ section {
 
 
 /*--------------------------------------------------------------
-# A skills
+# Akills
 --------------------------------------------------------------*/
 
 .skills .progress {
     height: auto;
     width: auto;
     display: block;
-    background: black;
+    background: none;
 }
 
 .skills .progress .skill {
@@ -448,7 +448,7 @@ section {
 }
 
 .skills .progress-bar-wrap {
-    background: #000000;
+    background: #dce8f8;
 }
 
 .skills .progress-bar {
